@@ -1,4 +1,4 @@
 {
-  "data": "{\"version\":\"1.2.1\",\"zipUrl\":\"https://raw.githubusercontent.com/karzhen4/kz-tools-updates/main/KZ-Tools-1.2.0.zip\",\"sha256\":\"ed7d4520802e4d9384512b728fcfd9e993cf0ba391d6204fc4e7da0c2be460a5\",\"notes\":\"وەشانی یەکەم\",\"revoked\":[],\"issued\":1795791563678}",
-  "sig": "MEUCIQDKpnE+qxl+JS7OrgrZXIIEYCAwkNLyfc5fb5TwpIuIBwIgXNAnmn75yFBBGslTNovUh4gfYUNQfYR/sNsw/bkseKU="
+  "data": "{\"version\":\"1.3.0\",\"zipUrl\":\"https://raw.githubusercontent.com/karzhen4/kz-tools-updates/main/KZ-Tools-1.3.0.zip\",\"sha256\":\"63aec69a36d4f7bcdf3db007d821a75420ae57cc20343028516c5472f1cfa93d\",\"notes\":\"پاشخانی جوڵاو، دابەزاندن لە ئینتەرنێت، بیت و نیشانە\",\"revoked\":[],\"issued\":1795793209527}",
+  "sig": "MEYCIQDuG4Bym2hjK7NUCDi8/v6msUT1v8alhlDRO/EKKRHdGgIhAOrWi1Fp4f0M1oEwT6BsJ5/y09pAfzIh3Q7tG2roCIAp"
 }
